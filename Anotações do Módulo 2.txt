@@ -1,0 +1,2 @@
+Anotações do Módulo 2 - Working with GitHub Repositories
+Aprendi a criar repositórios, fazer upload de arquivos e trabalhar com branches.
